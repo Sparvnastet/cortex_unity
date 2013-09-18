@@ -1,0 +1,10 @@
+# unity files and dirs
+/Assembly*
+Temp/*
+Library/*
+ProjectSettings/*
+*.sln
+*.userprefs
+
+# random
+*.swp
